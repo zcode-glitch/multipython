@@ -1,6 +1,6 @@
-# 🚀 Project Name
+# 🚀 Multi Python Terminal
 
-> Short and clear one-liner description
+> I present one of the codes that I have created to make it easier for users so they don't get bored. 
 
 ## 📌 Features
 - ✅ Game FindHamster
