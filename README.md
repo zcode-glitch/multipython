@@ -1,5 +1,21 @@
-# multi
-In this repository, as a developer, I present one of the codes that I have created to make it easier for users so they don't get bored.
-name: Multi Tools Python In Terminal
-In this code there is input that will produce output on the terminal, and the output is various things, for example: calculator, cashier, and games.
-# For more information see: https://github.com/zcode-glitch/multipython.git
+# 🚀 Project Name
+
+> Short and clear one-liner description
+
+## 📌 Features
+- ✅ Game FindHamster
+- ✅ Kalkulator
+- ✅ Warung ( Shop )
+
+## 🛠️ Tech Stack
+- Language: Python 3.10
+- Framework: 
+- Database: -
+- Others: -
+
+## 🚀 Getting Started
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+pip install -r requirements.txt
+python main.py
