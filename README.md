@@ -15,7 +15,6 @@
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/username/project-name.git
-cd project-name
-pip install -r requirements.txt
+git clone https://github.com/zcode-glitch/multipython.git
+cd multi_py
 python main.py
